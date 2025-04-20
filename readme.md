@@ -50,7 +50,7 @@ The player extracts the video or playlist ID from the URL and uses the YouTube I
 └── README.md           # Project documentation
 ```
 ---
-## 🎥 Demo video
+## 🎥 Demo Video
 
 Experience Ad-Free YouTube Player in action:  
 **Live Preview:** [Click here to watch the demo](https://youtu.be/x2M6cLCAQwM)
