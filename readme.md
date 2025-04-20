@@ -91,7 +91,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Give it a ⭐ if you found this helpful!
-```
-
-Let me know if you'd like me to generate a custom `screenshot.png` or help you host this on GitHub Pages with proper meta tags for SEO!
