@@ -47,7 +47,6 @@ The player extracts the video or playlist ID from the URL and uses the YouTube I
 📁 Ad-Free-YouTube-Player/
 │
 ├── index.html          # Main HTML file
-├── screenshot.png      # Preview image
 └── README.md           # Project documentation
 ```
 
