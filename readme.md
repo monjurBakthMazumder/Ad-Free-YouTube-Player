@@ -64,7 +64,7 @@ Experience Ad-Free YouTube Player in action:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/monjurbakthmazumder/Ad-Free-YouTube-Player.git
+   git clone https://github.com/monjurBakthMazumder/Ad-Free-YouTube-Player
    ```
 
 2. Open `index.html` in your browser.
